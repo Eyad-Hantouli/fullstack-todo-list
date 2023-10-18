@@ -2,5 +2,5 @@
 Flask restfull api with reactjs project
 
 # Run the app
-1- run ```backend/appp.py```
+1- run ```backend/appp.py```<br />
 2- run this command inside *frontend* directory ```npm start```
